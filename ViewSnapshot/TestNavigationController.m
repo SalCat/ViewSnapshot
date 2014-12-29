@@ -1,22 +1,23 @@
 //
-//  ViewController.m
+//  TestNavigationController.h
 //  ViewSnapshot
 //
-//  Created by Salvatore Cataudella on 12/29/14.
+//  Created by SalCat on 12/29/14.
 //  Copyright (c) 2014 SalCat. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "TestNavigationController.h"
+#import "TestViewController.h"
 
-@interface ViewController ()
 
-@end
-
-@implementation ViewController
+@implementation TestNavigationController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    UIViewController *vCtl = [[TestViewController alloc] initWithNibName:nil bundle:nil];
+    [self pushViewController:vCtl animated:YES];
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -25,3 +26,6 @@
 }
 
 @end
+
+
+

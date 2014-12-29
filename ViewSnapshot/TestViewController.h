@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  TestViewController.h
 //  ViewSnapshot
 //
 //  Created by SalCat on 12/29/14.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface TestViewController : UIViewController
 
 @end
-
