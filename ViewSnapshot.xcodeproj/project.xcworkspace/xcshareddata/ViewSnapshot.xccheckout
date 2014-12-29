@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7ECDDD87-C18C-4DB4-8E2C-2D454AD5957B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ViewSnapshot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8ECECA31F4832E5BD5C22134FCD91B62785C2AC</key>
+		<string>https://github.com/SalCat/ViewSnapshot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ViewSnapshot.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8ECECA31F4832E5BD5C22134FCD91B62785C2AC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SalCat/ViewSnapshot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8ECECA31F4832E5BD5C22134FCD91B62785C2AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8ECECA31F4832E5BD5C22134FCD91B62785C2AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ViewSnapshot</string>
+		</dict>
+	</array>
+</dict>
+</plist>
